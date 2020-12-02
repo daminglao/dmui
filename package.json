@@ -1,6 +1,6 @@
 {
-  "name": "dmui",
-  "version": "1.0.0",
+  "name": "damingui",
+  "version": "1.0.1",
   "description": "some components",
   "main": "index.js",
   "scripts": {
