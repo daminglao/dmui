@@ -1,4 +1,4 @@
-# dmui
+# damingui
 ui repo
 
 Project start
@@ -8,6 +8,6 @@ Project start
 ## 施工中
 使用方法
 ```bash
-$ npm install dmui --save--dev
+$ npm install damingui --save--dev
 ```
 目前还没有任何内容，占个坑
